@@ -1,0 +1,34 @@
+openclaw-business-assistant/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── agents/
+│   ├── email_agent.md
+│   ├── report_agent.md
+│   └── reminder_agent.md
+│
+├── skills/
+│   ├── email-monitor/
+│   │   └── SKILL.md
+│   │
+│   ├── report-generator/
+│   │   └── SKILL.md
+│   │
+│   ├── reminder-manager/
+│   │   └── SKILL.md
+│   │
+│   └── business-research/
+│       └── SKILL.md
+│
+├── sample_data/
+│   └── emails.txt
+│
+├── docs/
+│   ├── workflow.md
+│   ├── model_comparison.md
+│   └── assignment_report.md
+│
+└── screenshots/
+    ├── running.jpg	
