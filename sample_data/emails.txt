@@ -1,0 +1,21 @@
+Subject: Project Alpha Status
+
+Client ABC requests a project status update by tomorrow.
+
+--------------------------------------------------
+
+Subject: Invoice Approval
+
+Finance team requests approval of vendor invoice #4582.
+
+--------------------------------------------------
+
+Subject: Weekly Review Meeting
+
+Management review meeting scheduled Friday at 3 PM.
+
+--------------------------------------------------
+
+Subject: New Client Opportunity
+
+Potential client interested in AI automation consulting services.
