@@ -1,0 +1,4 @@
+OpenAI API
+Slack integration
+Optional Gmail integration
+Environment variables
